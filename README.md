@@ -1,4 +1,4 @@
-# Emoji Creator Project
+# Emoji-Sense
 
 This project detects facial emotion from an image or webcam feed and maps the result to an emoji-style output. It includes:
 
